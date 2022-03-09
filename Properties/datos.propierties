@@ -1,0 +1,10 @@
+url = https://google.com
+filePathExcel =./data/Prueba.xlsx
+outputFile = ./output/
+platformName = Android
+deviceName = 75b45bd0
+platformVersion = 10
+appPackage = com.clarocolombia.miclaro.debug
+appActivity = com.clarocolombia.miclaro.activities.Splash
+noReset = true
+autoGrantPermissions = true
